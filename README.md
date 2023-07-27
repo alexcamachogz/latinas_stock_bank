@@ -1,5 +1,3 @@
-# latinas_stock_bank
-
 # Latinas Stock Bank
 
 Technolatinas necesita crear una aplicación que permita consultar el estado de sus acciones en tiempo real. Esta aplicación debería permitirles a sus usuarios comprar y vender acciones, depositar fondos, imprimir estados de cuenta, revisar sus acciones y venderlas.
