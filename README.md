@@ -28,7 +28,7 @@ Los requisitos para esta aplicación son los siguientes:
 
 El "Estado de cuenta" debe mostrar el nombre completo del usuario y su usuario, la cantidad de acciones y sus valores respectivos, los fondos disponibles y la fecha de la solicitud de impresión. 
 
-Esta solución debe de presentar todos los datos en la pantalla. Como buenis puedes generar un archivo en formato `.PDF` que contenga toda la información mostrada en pantalla.
+Esta solución debe de presentar todos los datos en la pantalla. Como BONUS puedes generar un archivo en formato `.PDF` que contenga toda la información mostrada en pantalla.
 
-Al finalizar la sesión, el programa termina y debe aparece un mensaje de despedida y redireccionar a la pantalla de inicio de sesión.
+Al finalizar la sesión, el programa termina y debe aparecer un mensaje de despedida y redireccionar a la pantalla de inicio de sesión.
 
